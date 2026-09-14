@@ -25,8 +25,8 @@ E2E-Machine-Learning-Pipeline/
    py -m pip install -r requirements.txt
 
  ```
-py src/generate_synthetic_data.py
+   py src/generate_synthetic_data.py
 
  ```
  ```
-py src/data_pipeline.py
+   py src/data_pipeline.py
