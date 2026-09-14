@@ -17,7 +17,7 @@ E2E-Machine-Learning-Pipeline/
 └── src/
     ├── generate_synthetic_data.py <-- Synthetic dataset generator
     └── data_pipeline.py           <-- Polars data cleaning & ML pipeline
-
+```
 ## Quick Start Guide
 
 1. **Install Dependencies:**
